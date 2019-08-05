@@ -1,0 +1,12 @@
+name: R_Project
+title: R_Project
+username:
+account: pauldingus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1063466
+bundleId: 2284245
+url: https://pauldingus.shinyapps.io/R_Project/
+when: 1564685527.38788
+asMultiple: FALSE
+asStatic: FALSE
